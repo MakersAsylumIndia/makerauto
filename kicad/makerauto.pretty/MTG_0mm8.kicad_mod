@@ -1,0 +1,9 @@
+(module MTG_0mm8 (layer F.Cu) (tedit 57AC74D2)
+  (fp_text reference P4 (at 0 1.27) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Pin (at 0 -1.27) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
+)

@@ -19,9 +19,9 @@ blinky badge for the Maker Auto
 DISCUSSION FORUM : TBD
 
 rev1 renders
-![Maker Auto TOP](https://github.com/MakersAsylumIndia/MAP4/blob/master/kicad/images/map4_01.png)
+![Maker Auto TOP](https://github.com/MakersAsylumIndia/makerauto/blob/master/kicad/images/makerauto_top.png)
 
-![Maker Auto BOT](https://github.com/MakersAsylumIndia/MAP4/blob/master/kicad/images/map4_02.png)
+![Maker Auto BOT](https://github.com/MakersAsylumIndia/makerauto/blob/master/kicad/images/makerauto_bot.png)
 
 rev2 renders
 
