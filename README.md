@@ -16,7 +16,7 @@ blinky badge for the Maker Auto
 2. Resistor Color Code
 3. Use of Multimeter to check LED, Resistor and Battery
 
-DISCUSSION FORUM : TBD
+DISCUSSION FORUM : http://discuss.makersasylum.com/t/maker-auto-rickshaw/55/36
 
 rev1 renders
 ![Maker Auto TOP](https://github.com/MakersAsylumIndia/makerauto/blob/master/kicad/images/makerauto_top.png)
