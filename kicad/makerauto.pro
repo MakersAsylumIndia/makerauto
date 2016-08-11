@@ -1,4 +1,4 @@
-update=Thu Aug 11 17:39:48 2016
+update=Thu Aug 11 20:23:29 2016
 version=1
 last_client=kicad
 [pcbnew]
@@ -29,8 +29,6 @@ LibDir=
 [eeschema/libraries]
 LibName1=makerauto
 LibName2=power
-[general]
-version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -42,3 +40,5 @@ SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
 ERC_TestSimilarLabels=1
+[general]
+version=1
