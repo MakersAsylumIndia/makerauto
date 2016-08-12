@@ -173,7 +173,6 @@ F 4 "Value" H 7650 6050 60  0001 C CNN "manf#"
 	1    7650 6050
 	0    1    1    0   
 $EndComp
-NoConn ~ 7650 5850
 Text Label 5025 2675 0    50   ~ 10
 3V
 Text Label 5025 4650 0    50   ~ 10
@@ -195,7 +194,6 @@ F 3 "" H 8050 6050 50  0000 C CNN
 	1    8050 6050
 	0    1    1    0   
 $EndComp
-NoConn ~ 8050 5850
 $Comp
 L CONN_01X01 P4
 U 1 1 574578FE
@@ -244,4 +242,34 @@ F 3 "" H 9250 6050 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 NoConn ~ 9250 5850
+Wire Wire Line
+	7650 5850 7650 5650
+Wire Wire Line
+	8050 5850 8050 5650
+Text Label 7650 5775 0    40   ~ 0
+TOP
+Text Label 8050 5750 0    40   ~ 0
+BOT
+$Comp
+L CONN_01X01 P8
+U 1 1 57AD6867
+P 7650 5450
+F 0 "P8" H 7650 5550 50  0000 C CNN
+F 1 "Pin" V 7750 5450 50  0000 C CNN
+F 2 "makerauto:MTG_0mm8" H 7650 5450 50  0001 C CNN
+F 3 "" H 7650 5450 50  0000 C CNN
+	1    7650 5450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CONN_01X01 P9
+U 1 1 57AD6923
+P 8050 5450
+F 0 "P9" H 8050 5550 50  0000 C CNN
+F 1 "Pin" V 8150 5450 50  0000 C CNN
+F 2 "makerauto:MTG_0mm8" H 8050 5450 50  0001 C CNN
+F 3 "" H 8050 5450 50  0000 C CNN
+	1    8050 5450
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
