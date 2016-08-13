@@ -3,7 +3,7 @@
   (general
     (links 19)
     (no_connects 0)
-    (area 72.570897 63.215599 127.429103 137.245601)
+    (area 72 62.5 144.750001 145.245001)
     (thickness 1.6)
     (drawings 183)
     (tracks 41)
@@ -178,7 +178,7 @@
       (net 2 /3V))
     (pad 2 thru_hole circle (at 0 13 90) (size 2.5 2.5) (drill 1.3) (layers *.Cu *.Mask B.SilkS)
       (net 1 /GND))
-    (model ${KIPRJMOD}/3d_modules/CR2032_HOR_HOLD.wrl
+    (model ${KIPRJMOD}/3d_modules/BATTERY_HOLDER_CR2032_2.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1837,7 +1837,7 @@
     (descr "SMT capacitor, 0805")
     (path /57443E35)
     (attr smd)
-    (fp_text reference R2 (at -2.032 0 405) (layer B.SilkS)
+    (fp_text reference R2 (at -2.032 0 45) (layer B.SilkS)
       (effects (font (size 0.635 0.889) (thickness 0.1143)) (justify mirror))
     )
     (fp_text value 47E (at 0 -1.714501 135) (layer B.SilkS) hide
