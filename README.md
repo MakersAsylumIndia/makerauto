@@ -23,8 +23,6 @@ rev1 renders
 
 ![Maker Auto BOT](https://github.com/MakersAsylumIndia/makerauto/blob/master/kicad/images/makerauto_bot.png)
 
-rev2 renders
-
 
 
 License
